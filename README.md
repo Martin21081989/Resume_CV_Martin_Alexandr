@@ -1,6 +1,6 @@
 # Resume_CV_Martin_Alexandr
 Information about me
-- HTNL5
+- HTML5
 * CSS3
 + JavaScript
 
