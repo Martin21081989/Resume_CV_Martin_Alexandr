@@ -4,4 +4,4 @@ Information about me
 * CSS3
 + JavaScript
 
-Can you view [My Resume](https://martin21081989.github.io/Resume_CV_Martin_Alexandr/).
+Can you view [My Resume](https://github.com/Martin21081989/Resume_CV_Martin_Alexandr.git/).
